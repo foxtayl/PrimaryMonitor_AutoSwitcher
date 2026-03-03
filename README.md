@@ -2,6 +2,10 @@
 
 Automatically switches your primary monitor when configured applications launch. Monitors the application and restores your primary monitor as soon as the app closes. Perfect for Skyrim, games, or any application on a secondary monitor.
 
+## Disclosure
+
+Github Copilot was used to write and debug this application and create its documentation.
+
 ## Features
 
 - ✅ **Multi-Application Support** - Monitor multiple applications simultaneously
@@ -173,4 +177,5 @@ For issues or questions:
 
 - Monitor switching powered by [NirCmd](https://www.nirsoft.net/utils/nircmd.html) by NirSoft
 - Process monitoring using [AutoHotkey](https://www.autohotkey.com/)
+
 
