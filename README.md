@@ -16,7 +16,7 @@ Automatically switches your primary monitor when configured applications launch.
 ## Requirements
 
 - **Windows** (tested on Windows 10/11)
-- **AutoHotkey** v1.1+ ([Download](https://www.autohotkey.com/))
+- **AutoHotkey** v2 ([Download](https://www.autohotkey.com/))
 - **NirCmd** ([Download](https://www.nirsoft.net/utils/nircmd.html))
 
 ## Quick Setup
@@ -173,3 +173,4 @@ For issues or questions:
 
 - Monitor switching powered by [NirCmd](https://www.nirsoft.net/utils/nircmd.html) by NirSoft
 - Process monitoring using [AutoHotkey](https://www.autohotkey.com/)
+
