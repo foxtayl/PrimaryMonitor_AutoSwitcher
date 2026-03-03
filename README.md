@@ -150,7 +150,8 @@ While the app is running, you can manually switch monitors:
 
 ```
 Monitor_Switch/
-├── Monitor_Switch.exe    # Main app
+├── PrimaryMonitor_AutoSwitcher.exe    # Main app
+├── PrimaryMonitor_AutoSwitcher.ahk    # AHK Script
 ├── config.ini            # Application configuration
 ├── setup.ps1             # Automated setup
 ├── nircmd.exe            # Monitor switching utility
@@ -177,5 +178,6 @@ For issues or questions:
 
 - Monitor switching powered by [NirCmd](https://www.nirsoft.net/utils/nircmd.html) by NirSoft
 - Process monitoring using [AutoHotkey](https://www.autohotkey.com/)
+
 
 
